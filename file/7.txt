@@ -1,0 +1,27 @@
+Big Data History and Current Considerations
+While the term “big data” is relatively new, the act of gathering and storing large amounts of information for eventual analysis is ages old. The concept gained momentum in the early 2000s when industry analyst Doug Laney articulated the now-mainstream definition of big data as the three Vs:
+
+Volume. Organizations collect data from a variety of sources, including business transactions, social media and information from sensor or machine-to-machine data. In the past, storing it would’ve been a problem – but new technologies (such as Hadoop) have eased the burden.
+
+Velocity. Data streams in at an unprecedented speed and must be dealt with in a timely manner. RFID tags, sensors and smart metering are driving the need to deal with torrents of data in near-real time.
+
+Variety. Data comes in all types of formats – from structured, numeric data in traditional databases to unstructured text documents, email, video, audio, stock ticker data and financial transactions.
+
+At SAS, we consider two additional dimensions when it comes to big data:
+
+Variability. In addition to the increasing velocities and varieties of data, data flows can be highly inconsistent with periodic peaks. Is something trending in social media? Daily, seasonal and event-triggered peak data loads can be challenging to manage. Even more so with unstructured data.
+
+Complexity. Today's data comes from multiple sources, which makes it difficult to link, match, cleanse and transform data across systems. However, it’s necessary to connect and correlate relationships, hierarchies and multiple data linkages or your data can quickly spiral out of control.
+
+SciSports and SAS Viya Score New Insights on Soccer Pitch
+Sports data analytics company SciSports has developed a camera system called BallJames to capture big data from all the players on the field who don’t have the ball – an extension of traditional approaches. This real-time tracking technology automatically generates 3-D data from the video of 14 cameras placed around the stadium to record every movement of the players. BallJames generates player data such as precision, direction and speed of the passing, sprinting strength and jumping strength – that’s a lot of big data.
+
+Why Is Big Data Important?
+The importance of big data doesn’t revolve around how much data you have, but what you do with it. You can take data from any source and analyze it to find answers that enable 1) cost reductions, 2) time reductions, 3) new product development and optimized offerings, and 4) smart decision making. When you combine big data with high-powered analytics, you can accomplish business-related tasks such as:
+
+Determining root causes of failures, issues and defects in near-real time.
+Generating coupons at the point of sale based on the customer’s buying habits.
+Recalculating entire risk portfolios in minutes.
+Detecting fraudulent behavior before it affects your organization.
+Data integration (DI) may be an old technology, but it is far from extinct. Today, rather than being done on a batch basis with internal data, DI has evolved to a point where it needs to be implicit in everyday business operations. Big data – of many types, and from vast sources like the Internet of Things – joins with the rapid growth of emerging technologies to extend beyond the reach of traditional data management software. To stay relevant, data integration needs to work with both indigenous and exogenous sources while operating at different latencies, from real time to streaming. This paper examines how data integration has gotten to this point, how it’s continuing to evolve and how SAS can help organizations keep their approach to DI current
+With the amount of information in the digital universe doubling every two years, big data governance issues will continue to inflate. This backdrop calls for organizations to ramp up efforts to establish a broad data governance program that formulates, monitors and enforces policies related to big data. Find out how a comprehensive platform from SAS supports multiple facets of big data governance, management and analytics in this white paper by Sunil Soares of Information Asset.
